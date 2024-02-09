@@ -1,0 +1,315 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{chen2023going}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=daedbadac43713b29eea78b4e063b766}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yiting},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c855d22e2433cad0cfe2ba03c5dc876b}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zhanpeng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=9a7a7c8d0b927c0b0f6c62cef2f118d5}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Junchi},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{799e3553ba290b56e88f72ce2dff3354}
+      \strng{fullhash}{799e3553ba290b56e88f72ce2dff3354}
+      \strng{bibnamehash}{799e3553ba290b56e88f72ce2dff3354}
+      \strng{authorbibnamehash}{799e3553ba290b56e88f72ce2dff3354}
+      \strng{authornamehash}{799e3553ba290b56e88f72ce2dff3354}
+      \strng{authorfullhash}{799e3553ba290b56e88f72ce2dff3354}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.LG}
+      \field{eprinttype}{arXiv}
+      \field{title}{Going Beyond Neural Network Feature Similarity: The Network Feature Complexity and Its Interpretation Using Category Theory}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2310.06756
+      \endverb
+    \endentry
+    \entry{dong2017learning}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=1396bd1cc9571700d9ac864e619ae646}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=16270ecf67afd8d0acf1644a35f1b246}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Shangyu},
+           giveni={S\bibinitperiod}}}%
+        {{hash=224c02b5d289fefd08d4f9f1a83c5d0c}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Sinno\bibnamedelima Jialin},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee1c630d543359c4bb3075a44191602b}
+      \strng{fullhash}{ee1c630d543359c4bb3075a44191602b}
+      \strng{bibnamehash}{ee1c630d543359c4bb3075a44191602b}
+      \strng{authorbibnamehash}{ee1c630d543359c4bb3075a44191602b}
+      \strng{authornamehash}{ee1c630d543359c4bb3075a44191602b}
+      \strng{authorfullhash}{ee1c630d543359c4bb3075a44191602b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.NE}
+      \field{eprinttype}{arXiv}
+      \field{title}{Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon}
+      \field{year}{2017}
+      \verb{eprint}
+      \verb 1705.07565
+      \endverb
+    \endentry
+    \entry{frantar2023optimal}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=ddda2fa01f869e2cbd2dcffd43c994fb}{%
+           family={Frantar},
+           familyi={F\bibinitperiod},
+           given={Elias},
+           giveni={E\bibinitperiod}}}%
+        {{hash=38f8f9074aefd402b6efe31f49381e59}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Sidak\bibnamedelima Pal},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=f03360e92167899bed76b84077d1b13f}{%
+           family={Alistarh},
+           familyi={A\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6a332656cbbed472eff9ced0042dc38}
+      \strng{fullhash}{b6a332656cbbed472eff9ced0042dc38}
+      \strng{bibnamehash}{b6a332656cbbed472eff9ced0042dc38}
+      \strng{authorbibnamehash}{b6a332656cbbed472eff9ced0042dc38}
+      \strng{authornamehash}{b6a332656cbbed472eff9ced0042dc38}
+      \strng{authorfullhash}{b6a332656cbbed472eff9ced0042dc38}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.LG}
+      \field{eprinttype}{arXiv}
+      \field{title}{Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2208.11580
+      \endverb
+    \endentry
+    \entry{yu2021hessianaware}{misc}{useauthor=false}
+      \name{author}{7}{}{%
+        {{hash=a34a8e04ba56b658651a3fe7c01dd67c}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Shixing},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e53d4d0172865556a0b0a5989a7f5c6f}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Zhewei},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ff99b6be6f7ad0c9f311e5ddf91c01f7}{%
+           family={Gholami},
+           familyi={G\bibinitperiod},
+           given={Amir},
+           giveni={A\bibinitperiod}}}%
+        {{hash=acc5054a5bc78dfa6ee2c7da37062cd3}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Zhen},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=faeabf11d1a7a5d933680f8e5a503098}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sehoon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6428c5852da0dfbdd50e39418c9571bf}{%
+           family={Mahoney},
+           familyi={M\bibinitperiod},
+           given={Michael\bibnamedelima W},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=994177386e5a63171a7be588e97df7e5}{%
+           family={Keutzer},
+           familyi={K\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{9cda3681af5b0b50cdb7634e2e1046dd}
+      \strng{authornamehash}{9cda3681af5b0b50cdb7634e2e1046dd}
+      \strng{authorfullhash}{106c1a1c062794f7b8e2f7ced7b715f8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CV}
+      \field{eprinttype}{arXiv}
+      \field{title}{Hessian-Aware Pruning and Optimal Neural Implant}
+      \field{year}{2021}
+      \verb{eprint}
+      \verb 2101.08940
+      \endverb
+    \endentry
+    \entry{Solodskikh_2023_CVPR}{inproceedings}{useauthor=false}
+      \name{author}{7}{}{%
+        {{hash=c94331454df582d9bbbd0e37076dccbf}{%
+           family={Solodskikh},
+           familyi={S\bibinitperiod},
+           given={Kirill},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8eff702a368d321b441d9ff173b585c9}{%
+           family={Kurbanov},
+           familyi={K\bibinitperiod},
+           given={Azim},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b13a12a2c1ed3b0437abc2bb8e2ff9ff}{%
+           family={Aydarkhanov},
+           familyi={A\bibinitperiod},
+           given={Ruslan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7597ba90a231e05e71d7af7a37af4922}{%
+           family={Zhelavskaya},
+           familyi={Z\bibinitperiod},
+           given={Irina},
+           giveni={I\bibinitperiod}}}%
+        {{hash=5dbeae0192f1cdccb1f023162e711573}{%
+           family={Parfenov},
+           familyi={P\bibinitperiod},
+           given={Yury},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8b23fd65037a06e47c0bba939e07e92c}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Dehua},
+           giveni={D\bibinitperiod}}}%
+        {{hash=32944ea80f6b0a2494d214bdfb5fbaab}{%
+           family={Lefkimmiatis},
+           familyi={L\bibinitperiod},
+           given={Stamatios},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{95702128f52ababcf4d69c196a2ae97b}
+      \strng{authornamehash}{95702128f52ababcf4d69c196a2ae97b}
+      \strng{authorfullhash}{f116c530279f509a5a8931c94f3376e8}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}
+      \field{month}{6}
+      \field{title}{Integral Neural Networks}
+      \field{year}{2023}
+      \field{pages}{16113\bibrangedash 16122}
+      \range{pages}{10}
+    \endentry
+    \entry{rs15123144}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=2aad7d994cce627903bcc71a191defe0}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Chaoyan},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0fa86ce76f38abb4293116ef56b787fa}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=08a8c6fb315830de2f71ff3498937685}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Baolong},
+           giveni={B\bibinitperiod}}}%
+        {{hash=418ee97388af6e6ca03ac99289b4e6a3}{%
+           family={Liao},
+           familyi={L\bibinitperiod},
+           given={Nannan},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{b1764de914ef2a419e672838ba40f7a2}
+      \strng{authornamehash}{b1764de914ef2a419e672838ba40f7a2}
+      \strng{authorfullhash}{fc6a5212830e73c8fcd5cd932fb73a1a}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Network pruning has been widely used in model compression techniques, and offers a promising prospect for deploying models on devices with limited resources. Nevertheless, existing pruning methods merely consider the importance of feature maps and filters in the spatial domain. In this paper, we re-consider the model characteristics and propose a novel filter pruning method that corresponds to the human visual system, termed Low Frequency Preference (LFP), in the frequency domain. It is essentially an indicator that determines the importance of a filter based on the relative low-frequency components across channels, which can be intuitively understood as a measurement of the &ldquo;low-frequency components&rdquo;. When the feature map of a filter has more low-frequency components than the other feature maps, it is considered more crucial and should be preserved during the pruning process. We conduct the proposed LFP on three different scales of datasets through several models and achieve superior performances. The experimental results obtained on the CIFAR datasets and ImageNet dataset demonstrate that our method significantly reduces the model size and FLOPs. The results on the UC Merced dataset show that our approach is also significant for remote sensing image classification.}
+      \field{issn}{2072-4292}
+      \field{journaltitle}{Remote Sensing}
+      \field{title}{Neural Network Compression via Low Frequency Preference}
+      \field{year}{2023}
+      \field{number}{12}
+      \range{number}{1}
+      \field{volume}{15}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3390/rs15123144
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2072-4292/15/12/3144
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2072-4292/15/12/3144
+      \endverb
+    \endentry
+    \entry{zhu2017prune}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=d69a2bac4c935fdb0ac600d4b1d5d60c}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5a75b429a7eb88510d2178abc1842b82}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Suyog},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5150f8e36d69ca1e361af6530eeb3dc}
+      \strng{fullhash}{a5150f8e36d69ca1e361af6530eeb3dc}
+      \strng{bibnamehash}{a5150f8e36d69ca1e361af6530eeb3dc}
+      \strng{authorbibnamehash}{a5150f8e36d69ca1e361af6530eeb3dc}
+      \strng{authornamehash}{a5150f8e36d69ca1e361af6530eeb3dc}
+      \strng{authorfullhash}{a5150f8e36d69ca1e361af6530eeb3dc}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{stat.ML}
+      \field{eprinttype}{arXiv}
+      \field{title}{To prune, or not to prune: exploring the efficacy of pruning for model compression}
+      \field{year}{2017}
+      \verb{eprint}
+      \verb 1710.01878
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,21 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}ВВЕДЕНИЕ}{3}{chapter.1}%
+\contentsline {chapter}{ОСНОВНАЯ ЧАСТЬ}{4}{chapter*.3}%
+\contentsline {section}{\numberline {1}ТЕОРЕТИЧЕСКАЯ ЧАСТЬ}{5}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1}Обзор литературы}{5}{subsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Метод оценки важности атомарных единиц нейронных сетей}{5}{subsubsection.1.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Динамический ресемплинг в непрерывных представлениях нейронных сетей}{6}{subsubsection.1.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}Особенности поставленных экспериментов}{6}{subsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}BatchNorm}{6}{subsubsection.1.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}SpectralNorm}{6}{subsubsection.1.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Multi-head Attention}{6}{subsubsection.1.1.2.3}%
+\contentsline {section}{\numberline {2}ПРАКТИЧЕСКАЯ ЧАСТЬ}{7}{section.1.2}%
+\contentsline {subsection}{\numberline {2.1}Используемые инструменты}{7}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {2.2}Экспериментальные результаты}{7}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {2.3}Выводы}{7}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {2.4}Дальнейшая работа}{7}{subsection.1.2.4}%
+\contentsline {chapter}{\numberline {2}СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{8}{chapter.2}%
+\contentsline {chapter}{ПРИЛОЖЕНИЯ}{9}{chapter*.5}%
+\contentsline {section}{ПРИЛОЖЕНИЕ 1}{10}{section*.6}%
+\contentsline {section}{ПРИЛОЖЕНИЕ 2}{11}{section*.7}%
+\contentsfinish 
