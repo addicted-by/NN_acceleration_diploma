@@ -1,2 +1,2 @@
-# NN_acceleration_diploma
+# Diploma work about neural network acceleration
 Acceleration of neural networks using its continuous representation
