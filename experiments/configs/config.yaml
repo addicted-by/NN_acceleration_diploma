@@ -1,0 +1,28 @@
+# @package _global_
+
+# specify here default configuration
+# order of defaults determines the order in which configs override each other
+
+defaults:
+  - _self_
+  - datamodule: default.yaml
+  - model: default.yaml
+  - callbacks: default.yaml
+  - logger: null
+  - trainer: default.yaml
+  - hydra: default.yaml
+
+  - experiment: null
+
+
+task_name: "dev"
+
+tags: ["dev", "debug"]
+
+train: True
+
+test: True
+
+seed: 228
+
+name: "dev-0.1.0"

@@ -1,0 +1,28 @@
+_target_: src.datamodules.mnist_datamodule.MNISTDataModule
+
+defaults:
+  - _self_
+  - loaders: default.yaml
+# this config file is used for running the template default tests
+
+datasets:
+  data_dir: ${paths.data_dir}
+  train_val_test_split: [55_000, 5_000, 10_000]
+  seed: 42
+
+transforms:
+  train:
+    order: ["normalize"]
+    normalize:
+      _target_: albumentations.Normalize
+      mean: [0.1307]
+      std: [0.3081]
+      p: 1.0
+
+  valid_test_predict:
+    order: ["normalize"]
+    normalize:
+      _target_: albumentations.Normalize
+      mean: [0.1307]
+      std: [0.3081]
+      p: 1.0

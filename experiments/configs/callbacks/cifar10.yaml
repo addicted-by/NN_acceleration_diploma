@@ -1,0 +1,12 @@
+accuracy_callback:
+  _target_: catalyst.dl.AccuracyCallback
+  input_key: logits
+  target_key: targets
+  topk: !!tuple (1, )
+  num_classes: 10
+
+scheduler_callback:
+  _target_: catalyst.dl.SchedulerCallback
+  mode: batch
+  loader_key: train
+  metric_key: loss
